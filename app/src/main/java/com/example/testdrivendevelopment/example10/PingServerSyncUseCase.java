@@ -1,6 +1,6 @@
 package com.example.testdrivendevelopment.example10;
 
-import com.techyourchance.testdrivendevelopment.example10.networking.PingServerHttpEndpointSync;
+import com.example.testdrivendevelopment.example10.networking.PingServerHttpEndpointSync;
 
 public class PingServerSyncUseCase {
 

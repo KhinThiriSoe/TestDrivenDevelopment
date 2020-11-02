@@ -1,6 +1,6 @@
 package com.example.testdrivendevelopment.exercise6;
 
-import com.techyourchance.testdrivendevelopment.exercise6.users.User;
+import com.example.testdrivendevelopment.exercise6.users.User;
 
 import org.jetbrains.annotations.Nullable;
 

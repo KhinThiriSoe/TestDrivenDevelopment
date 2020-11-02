@@ -1,8 +1,9 @@
 package com.example.testdrivendevelopment.example11;
 
-import com.techyourchance.testdrivendevelopment.example11.cart.CartItem;
-import com.techyourchance.testdrivendevelopment.example11.networking.CartItemSchema;
-import com.techyourchance.testdrivendevelopment.example11.networking.GetCartItemsHttpEndpoint;
+import com.example.testdrivendevelopment.example11.cart.CartItem;
+import com.example.testdrivendevelopment.example11.networking.CartItemSchema;
+import com.example.testdrivendevelopment.example11.networking.GetCartItemsHttpEndpoint;
+
 
 import java.util.ArrayList;
 import java.util.List;
